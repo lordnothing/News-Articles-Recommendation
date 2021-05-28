@@ -1,1 +1,3 @@
 # News-Articles-Recommendation
+
+A news article recommendation is an application used to provide similar news articles for users based on their history. This is achieved through lexical analysis; it recommends articles on various authors and categories. The project **“NEWS ARTICLE RECOMMENDTATION”** is developed in python programming language, which mainly focuses on Natural Language Processing (NLP) by recommending users the right articles at the right time.<br/> The steps involved are creating the dataset and giving it to the system and by using lexical analysis we tokenize into vector forms, and evaluate and compare each vector by Euclidean similarity and recommend news headline.
